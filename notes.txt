@@ -1,0 +1,2 @@
+I am learning AI agents using Python and Qwen.
+The result of 125 * 24 is 3000.
